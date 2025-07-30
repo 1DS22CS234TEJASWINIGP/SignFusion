@@ -1,0 +1,22 @@
+{
+    "again": 0,
+    "cousin": 1,
+    "drink": 2,
+    "eat": 3,
+    "finish": 4,
+    "fish": 5,
+    "friend": 6,
+    "milk": 7,
+    "nice": 8,
+    "no": 9,
+    "orange": 10,
+    "school": 11,
+    "sister": 12,
+    "student": 13,
+    "teacher": 14,
+    "want": 15,
+    "water": 16,
+    "what": 17,
+    "white": 18,
+    "yes": 19
+}
